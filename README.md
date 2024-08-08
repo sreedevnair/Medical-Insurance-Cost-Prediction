@@ -36,4 +36,8 @@ However, when we get R-square equals 0 when the model does not predict any varia
 
 <br>
 
+> This project was a complete walkthrough of this [tutorial](https://youtu.be/ntBa7YKc9XM?si=s-0AGsFf7xFXRwrS) by Siddhardhan.
+
+ <br>
+
 --------
